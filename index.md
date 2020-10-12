@@ -1,37 +1,173 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8"/>
+<title>賴憬霖</title>
+<div id="head">
 
-You can use the [editor on GitHub](https://github.com/U0958042/web2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+<center>
+<table border="0" width="1000" cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="https://inews.gtimg.com/newsapp_match/0/3467614343/0" width="1000"  height="300"></td>
+</tr>
+<tr>
+<td align="center"><h1>國立聯合大學文創系賴憬霖</h1></td>
+</tr>
+</table>
+<div id="nav1"><br>
+<table border="0" width="0" cellpadding="0" cellspacing="0" bgcolor="#999999">
+<tr>
+<td align="left" bgcolor="#ffffff"><a href="index.htm">作品集</a>＞ </td>
+<td align="left" bgcolor="#ffffff"><a href="index.htm">Photoshop</a>＞</td>
+<td align="left" bgcolor="#ffffff"><a href="index.htm">陶藝作品</a>＞</td>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</tr>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</table>
+</div>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<div id="cont"><br>
 
-**Bold** and _Italic_ and `Code` text
+<table border="0" width="1000" cellpadding="0" cellspacing="1" bgcolor="#999999">
 
-[Link](url) and ![Image](src)
-```
+<tr>
+<td align="center"bgcolor="#ffffff" colspan="2"><h1>Photoshop</h1></td>
+</tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<tr valign="top">
+<td bgcolor="#ffffff" width="191"><table width="181">
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2805_7365018_05613.jpg"></a></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2811_1663698_05914.jpg"></a></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2812_6598392_06210.jpg"></a></td></tr>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U0958042/web2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2807_8805083_06340.jpg"></a></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2808_7596863_06584.png"></a></td></tr>
+<tr><td><a href="1.htm"><img src="https://hss.nuu.edu.tw/var/file/20/1020/plugin/mobile/title/hln_2810_8056118_06937.jpg"></a></td></tr>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</table></td>
+
+
+
+<td bgcolor="#ffffff" width="806"><table width="800">
+<tr>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="1.htm"target="_blank">1</td>
+<td align="center"><a href="1.htm"target="_blank">2</td>
+
+<td align="center"><a href="1.htm"target="_blank">3</td>
+<td align="center"><a href="1.htm"target="_blank">4</td>
+<td align="center"><a href="1.htm"target="_blank">5</td>
+</tr>
+
+<tr>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="1.htm"target="_blank">6</td>
+<td align="center"><a href="1.htm"target="_blank">7</td>
+
+<td align="center"><a href="1.htm"target="_blank">8</td>
+<td align="center"><a href="1.htm"target="_blank">9</td>
+<td align="center"><a href="1.htm"target="_blank">10</td>
+</tr>
+
+<tr>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+
+<td><img width="145" height="200"src="https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/201905/article-5cd522763d6af.jpg"></td>
+</tr>
+<tr>
+<td align="center"><a href="1.htm"target="_blank">11</td>
+<td align="center"><a href="1.htm"target="_blank">12</td>
+
+<td align="center"><a href="1.htm"target="_blank">13</td>
+<td align="center"><a href="1.htm"target="_blank">14</td>
+<td align="center"><a href="1.htm"target="_blank">15</td>
+</tr>
+</table>
+</table>
+</td>
+
+</div>
+<br/>
+
+<div id="bottom"><br/>
+  <table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+    <tr>
+      <td align="center" bgcolor="#FFFFFF"><br />
+        &copy版權所有。國立聯合大學文創系。禁止轉貼<br />
+          <br />
+        </a></td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+</br>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
