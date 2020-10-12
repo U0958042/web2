@@ -10,7 +10,7 @@
 <center>
 <table border="0" width="1000" cellpadding="0" cellspacing="0">
 <tr>
-<td><img src="https://inews.gtimg.com/newsapp_match/0/3467614343/0" width="1000"  height="300"></td>
+<td><img src="https://trulygoods.files.wordpress.com/2016/05/138270152.jpg?w=880" width="1000"  height="300"></td>
 </tr>
 <tr>
 <td align="center"><h1>國立聯合大學文創系賴憬霖</h1></td>
